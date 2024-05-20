@@ -1,2 +1,4 @@
-package bar.barbar;public class Bar {
+package bar.barbar;
+
+public class Bar {
 }
